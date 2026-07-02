@@ -16,3 +16,4 @@
 - chore: link the usage section
 - fix: link the usage section
 - fix: clarify the setup steps
+- chore: add a note about the defaults
